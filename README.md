@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Dancing+Script&color=8E24AA&size=35&center=true&vCenter=true&width=1000&lines=Oiii,+Meu+nome+é+Nicole+Andrade;Seja+bem+vindo!+:%29)](https://git.io/typing-svg)
 ### Oi pessoa, 👾🌍👽
 
-- :computer: <b>Análista</b>, no momento de crédito... 
-- 📓 <i>Gestão da Tecnologia de Informação <b>FATEC JAHU</b> do curso de </i>
+- :computer: <b>Análista</b>, atualmente de crédito... 
+- 📓 <i>Gestão da Tecnologia de Informação <b>FATEC JAHU</b></i>
 - 📓 <i>Pós graduação Segurança de Informação <b> PUC - CAMPINAS </b></i>
 
 
