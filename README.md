@@ -5,11 +5,7 @@
 - 📓 <i>Gestão da Tecnologia de Informação <b>FATEC JAHU</b></i>
 - 📓 <i>Pós graduação Segurança de Informação <b> PUC - CAMPINAS </b></i>
 
-)
-
 <div align="center">
-
-  ![readme](https://github.com/NicoleAndradeDEV/NicoleAndradeDEV/assets/144156077/c14afd9a-b566-4927-b18a-d3076880b8fc)
 
 </div>
 
