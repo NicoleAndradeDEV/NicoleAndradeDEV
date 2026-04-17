@@ -4,6 +4,7 @@
 - :computer: <b>Análista</b>, atualmente de crédito... 
 - 📓 <i>Gestão da Tecnologia de Informação <b>FATEC JAHU</b></i>
 - 📓 <i>Pós graduação Segurança de Informação <b> PUC - CAMPINAS </b></i>
+https://nicoleandrade.thegkr.easypanel.host/
 
 <div align="center">
 
